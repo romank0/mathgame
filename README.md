@@ -3,10 +3,10 @@ A simple game to teach children basic arithmetic operations for m5stack.
 
 ## Controls
 
-short A/C: move cursor left/right
-short B: increase digit in the current cursor position
-long B: decrese digit in the current cursor position
-long C: submit result
+- short A/C: move cursor left/right
+- short B: increase digit in the current cursor position
+- long B: decrese digit in the current cursor position
+- long C: submit result
   
 If the result is correct it is scored. After several correct answers for
 the given operation the difficulty level is increased (larger number to
